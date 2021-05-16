@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# The-Sparks-Foundation-Tasks
+This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+Internship Category - Data Science and Business Analytics
+Internship Duration - 1 Month ( May-2021 )
+Internship Type - Work from Home
+In this internship, we were provided a number of tasks and I was able to successfully complete three tasks within the given time-frame.
 
-You can use the [editor on GitHub](https://github.com/jeetsahoo50/The-Sparks-Foundation-Tasks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Task-1 : Prediction using Supervised ML (Level - Beginner)
+https://github.com/jeetsahoo50/The-Sparks-Foundation-Tasks/blob/main/Jeet%20Sahoo%20-%20Task-1_Linear_Regression.ipynb
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Predict the percentage of marks of an student based on the number of study hours.
+This is a simple linear regression task as it involves just 2 variables.
+Data can be found at http://bit.ly/w
+You can use R, Python, SAS Enterprise Miner or any other tool.
+What will be predicted score if a student studies for 9.25 hrs/ day?
 
-### Markdown
+# Task-2 : Prediction using Unsupervised ML (Level - Beginner)
+https://github.com/jeetsahoo50/The-Sparks-Foundation-Tasks/blob/main/Jeet%20Sahoo%20-%20Task-2_K-Means_Clustering.ipynb
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+Use R or Python or perform this task.
+Data can be found at https://bit.ly/3cGyP8j
 
-```markdown
-Syntax highlighted code block
+# Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+https://github.com/jeetsahoo50/The-Sparks-Foundation-Tasks/blob/main/Jeet%20Sahoo%20-%20Task-3_Decision%20Tree_Algorithm.ipynb
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jeetsahoo50/The-Sparks-Foundation-Tasks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+Data can be found at https://bit.ly/3kXTdox
